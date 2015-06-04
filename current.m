@@ -1,0 +1,1 @@
+get_n_first_primes(10001)
